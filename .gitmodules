@@ -1,0 +1,3 @@
+[submodule "React-Asp-Crud"]
+	path = React-Asp-Crud
+	url = https://github.com/DPRiker/React-Asp-Crud.git
