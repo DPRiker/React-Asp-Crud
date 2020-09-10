@@ -1,0 +1,14 @@
+C:\Users\d.pestov\source\repos\ReactAspCRUD\ReactAspCRUD\bin\Debug\netcoreapp2.1\ReactAspCRUD.deps.json
+C:\Users\d.pestov\source\repos\ReactAspCRUD\ReactAspCRUD\bin\Debug\netcoreapp2.1\ReactAspCRUD.runtimeconfig.json
+C:\Users\d.pestov\source\repos\ReactAspCRUD\ReactAspCRUD\bin\Debug\netcoreapp2.1\ReactAspCRUD.runtimeconfig.dev.json
+C:\Users\d.pestov\source\repos\ReactAspCRUD\ReactAspCRUD\bin\Debug\netcoreapp2.1\ReactAspCRUD.dll
+C:\Users\d.pestov\source\repos\ReactAspCRUD\ReactAspCRUD\bin\Debug\netcoreapp2.1\ReactAspCRUD.pdb
+C:\Users\d.pestov\source\repos\ReactAspCRUD\ReactAspCRUD\obj\Debug\netcoreapp2.1\ReactAspCRUD.csprojAssemblyReference.cache
+C:\Users\d.pestov\source\repos\ReactAspCRUD\ReactAspCRUD\obj\Debug\netcoreapp2.1\ReactAspCRUD.csproj.CoreCompileInputs.cache
+C:\Users\d.pestov\source\repos\ReactAspCRUD\ReactAspCRUD\obj\Debug\netcoreapp2.1\ReactAspCRUD.RazorAssemblyInfo.cache
+C:\Users\d.pestov\source\repos\ReactAspCRUD\ReactAspCRUD\obj\Debug\netcoreapp2.1\ReactAspCRUD.RazorAssemblyInfo.cs
+C:\Users\d.pestov\source\repos\ReactAspCRUD\ReactAspCRUD\obj\Debug\netcoreapp2.1\ReactAspCRUD.AssemblyInfoInputs.cache
+C:\Users\d.pestov\source\repos\ReactAspCRUD\ReactAspCRUD\obj\Debug\netcoreapp2.1\ReactAspCRUD.AssemblyInfo.cs
+C:\Users\d.pestov\source\repos\ReactAspCRUD\ReactAspCRUD\obj\Debug\netcoreapp2.1\ReactAspCRUD.RazorTargetAssemblyInfo.cache
+C:\Users\d.pestov\source\repos\ReactAspCRUD\ReactAspCRUD\obj\Debug\netcoreapp2.1\ReactAspCRUD.dll
+C:\Users\d.pestov\source\repos\ReactAspCRUD\ReactAspCRUD\obj\Debug\netcoreapp2.1\ReactAspCRUD.pdb
